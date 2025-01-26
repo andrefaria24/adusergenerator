@@ -10,6 +10,8 @@
 - [Usage and Examples](#Usage-and-Examples)
   - [Create a random User account in the lab.local domain in the Test OU](#Create-a-random-User-account-in-the-lab.local-domain-in-the-Test-OU)
   - [Create 100 random User accounts in the lab.local domain with a prefix of tst](#Create-100-random-User-accounts-in-the-lab.local-domain-with-a-prefix-of-tst)
+- [Contributing](#Contributing)
+- [License](#License)
 
 # Description
 
@@ -47,3 +49,11 @@ New-RandomADUser -Domain lab.local -OU "OU=Test,DC=lab,DC=local"
 ```powershell
 New-RandomADUser -Domain lab.local -OU "OU=Test,DC=lab,DC=local" -Count 100 -Prefix "tst-"
 ```
+
+# Contributing
+
+Contributions are welcome! Please submit issues and pull requests to the GitHub repository.
+
+# License
+
+This module is licensed under the MIT License.
