@@ -5,7 +5,7 @@
     Author = 'Andre Faria'
     Copyright         = '(c) Andre Faria. All rights reserved.'
     Description = 'A PowerShell module that generates random Active Directory users.'
-    PowerShellVersion = '7.4.6'
+    PowerShellVersion = '5.1'
     FunctionsToExport = 'New-RandomADUser'
     CmdletsToExport = @()
     VariablesToExport = '*'
