@@ -14,9 +14,9 @@
     PrivateData       = @{
         PSData = @{
             Tags         = @('Windows', 'ActiveDirectory', 'AD', 'User', 'Generator')
-            LicenseUri   = 'https://github.com/andrefaria24/adusergenerator/main/LICENSE'
+            LicenseUri   = 'https://github.com/andrefaria24/adusergenerator/blob/master/LICENSE'
             ProjectUri   = 'https://github.com/andrefaria24/adusergenerator'
-            ReleaseNotes = 'https://github.com/andrefaria24/adusergenerator/main/CHANGELOG.md'
+            ReleaseNotes = 'https://github.com/andrefaria24/adusergenerator/blob/master/CHANGELOG.md'
         }
     }
 }
